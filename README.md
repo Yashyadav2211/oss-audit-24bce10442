@@ -1,6 +1,6 @@
 # Open Source Audit – LibreOffice on Fedora 43
 
-**Student Name:** Yash
+**Student Name:** Yash yadav
 **Registration Number:** 24BCE10442
 **Course:** Open Source Software  
 **Chosen Software:** LibreOffice
